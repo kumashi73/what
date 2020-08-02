@@ -129,7 +129,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 	height: 77px;
 	/* width: 230px;
 	height: 110px; */
-	background: url('https://raw.githubusercontent.com/kumashi73/what/master/pth_oink.png') no-repeat top left;
+	background: url('pth_oink.png') no-repeat top left;
 	/* background: url('what.png') no-repeat top left; */
 	position: absolute;
 	left: 18px;
@@ -681,13 +681,13 @@ ul.poll li.graph {
 .show_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('https://raw.githubusercontent.com/kumashi73/what/master/show.png') no-repeat center center;
+	background: url('show.png') no-repeat center center;
 }
 
 .hide_torrents {
 	width: 28px;
 	height: 28px;
-	background: url('https://raw.githubusercontent.com/kumashi73/what/master/hide.png') no-repeat center center;
+	background: url('hide.png') no-repeat center center;
 }
 
 .show_torrents_link {
@@ -955,20 +955,20 @@ ul .invitetree {
 
 /* Layout (Torrents page) */
 /* We're going to opt for the category icon method for now, tags_* is also available */
-.cats_applications { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/apps.png') no-repeat center center; }
-.cats_audiobooks { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/audiobook.png') no-repeat center center; }
-.cats_comedy { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/comedy.png') no-repeat center center; }
-.cats_comics { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/comics.png') no-repeat center center; }
-.cats_ebooks { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/ebook.png') no-repeat center center; }
-.cats_elearningvideos { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/elearning.png') no-repeat center center; }
-.cats_music { width: 28px; height: 28px; background: url('https://raw.githubusercontent.com/kumashi73/what/master/music.png') no-repeat center center; }
+.cats_applications { width: 28px; height: 28px; background: url('apps.png') no-repeat center center; }
+.cats_audiobooks { width: 28px; height: 28px; background: url('audiobook.png') no-repeat center center; }
+.cats_comedy { width: 28px; height: 28px; background: url('comedy.png') no-repeat center center; }
+.cats_comics { width: 28px; height: 28px; background: url('comics.png') no-repeat center center; }
+.cats_ebooks { width: 28px; height: 28px; background: url('ebook.png') no-repeat center center; }
+.cats_elearningvideos { width: 28px; height: 28px; background: url('elearning.png') no-repeat center center; }
+.cats_music { width: 28px; height: 28px; background: url('music.png') no-repeat center center; }
 
 /* Layout (Forums) */
-.unread_locked_sticky{background: url('https://raw.githubusercontent.com/kumashi73/what/master/locked_sticky_unread.png') no-repeat center center;}
-.read_locked_sticky{background: url('https://raw.githubusercontent.com/kumashi73/what/master/locked_sticky_read.png') no-repeat center center;}
-.read_sticky{background: url('https://raw.githubusercontent.com/kumashi73/what/master/sticky_read.png') no-repeat center center;}
-.unread_sticky{background: url('https://raw.githubusercontent.com/kumashi73/what/master/sticky_unread.png') no-repeat center center;}
-.unread_locked{background: url('https://raw.githubusercontent.com/kumashi73/what/master/locked_unread.png') no-repeat center center;}
-.read_locked{background: url('https://raw.githubusercontent.com/kumashi73/what/master/locked_read.png') no-repeat center center;}
-.unread{background: url('https://raw.githubusercontent.com/kumashi73/what/master/unread.png') no-repeat center center;}
-.read{background: url('https://raw.githubusercontent.com/kumashi73/what/master/read.png') no-repeat center center;}
+.unread_locked_sticky{background: url('locked_sticky_unread.png') no-repeat center center;}
+.read_locked_sticky{background: url('locked_sticky_read.png') no-repeat center center;}
+.read_sticky{background: url('sticky_read.png') no-repeat center center;}
+.unread_sticky{background: url('sticky_unread.png') no-repeat center center;}
+.unread_locked{background: url('locked_unread.png') no-repeat center center;}
+.read_locked{background: url('locked_read.png') no-repeat center center;}
+.unread{background: url('unread.png') no-repeat center center;}
+.read{background: url('read.png') no-repeat center center;}
